@@ -1,0 +1,1 @@
+{"path":"/tmp/gradio/27a33c75462c944ec585b0ad28098b37ce1a3612dbd9709226ddcddbae6508bc/image.webp","url":"https://593212f1648e18b2f9.gradio.live/gradio_api/file=/tmp/gradio/27a33c75462c944ec585b0ad28098b37ce1a3612dbd9709226ddcddbae6508bc/image.webp","size":null,"orig_name":"image.webp","mime_type":null,"is_stream":false,"meta":{"_type":"gradio.FileData"}}
